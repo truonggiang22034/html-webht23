@@ -1,0 +1,22 @@
+body{
+    background-image: url("../img/R.jpg");
+
+}
+h1{
+    background-color:darkcyan;color: white;
+    font-size: 50px;
+    color: aliceblue;
+    text-align: center;
+ 
+   }
+h2{
+    background-color: darkcyan;
+    color: rgb(249, 249, 249) ;
+}
+table{
+    border: 3px solid red;
+}
+{
+    text-align: center;
+    
+}
