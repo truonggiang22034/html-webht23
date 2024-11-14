@@ -1,0 +1,22 @@
+div{
+   
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px solid gray;
+    margin:50px 150px 50px 150px
+}
+h1{
+    color: red;
+    text-align: center;
+
+}
+#id-demo{
+    text-decoration: underline;
+}
+.note{
+color: rgba(57, 230, 26, 0.871);
+}
+*{
+    background-image: url("../img/Screenshot\ 2024-11-03\ 205716.png");
+  
+}
